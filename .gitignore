@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Automaton/bin/Debug/net6.0
+/Automaton/obj
+/Automaton.Application/bin/Debug/net6.0
+/Automaton.Application/obj
+/Automaton.Application.Tests/bin/Debug/net6.0
+/Automaton.Application.Tests/obj
+/Automaton.DataAccesLayer/bin/Debug/net6.0
+/Automaton.DataAccesLayer/obj
+/Automaton.Domain/bin/Debug/net6.0
+/Automaton.Domain/obj
+/Automaton/bin/Release/net6.0
+/Automaton.Application/bin/Release/net6.0
+/Automaton.DataAccesLayer/bin/Release/net6.0
+/Automaton.Domain/bin/Release/net6.0
